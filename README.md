@@ -1,0 +1,2 @@
+# GerenciamentoDeConfiguracao
+Atividade: Python
